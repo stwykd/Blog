@@ -1,2 +1,0 @@
-# Blog
-Pierluigi's Blog
